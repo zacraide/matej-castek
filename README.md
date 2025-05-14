@@ -9,7 +9,7 @@ Hi, I'm Matěj Částek, a beginner programmer passionate about web development,
 - **Version Control**: Familiar with **Git** and **GitHub** for managing my projects and collaborating with others.
 
 ## 🎮 Projects:
-- **Pixel Art Game (High School Project)**: My first game created using Python and Pygame. It’s set in an environment inspired by my high school, with interactive elements and a retro pixel art style. [Link to the project repository](#).
+- **Pixel Art Game (High School Project)**: My first game created using Python and Pygame. It’s set in an environment inspired by my high school, with interactive elements and a retro pixel art style. [Link to the project repository]([#](https://github.com/zacraide/pixelart)).
 - **Web Development Projects**: Currently working on learning and building simple websites to improve my front-end and back-end skills. 
 
 Feel free to reach out to me for collaboration, advice, or just to chat about programming!
